@@ -1,3 +1,10 @@
+"""
+Author: Mohamadamin Kazemi
+Date: 2024-06-25
+Title: Password Generator
+Description: A Python module for generating secure and memorable passwords using various strategies.
+"""
+
 from __future__ import annotations
 
 import random

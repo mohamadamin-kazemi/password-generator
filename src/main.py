@@ -1,6 +1,6 @@
 """
 Author: Mohamadamin Kazemi
-Date: 2024-06-25
+Date: 2024-05-25
 Title: Password Generator
 Description: A Python module for generating secure and memorable passwords using various strategies.
 """
